@@ -1,0 +1,41 @@
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px;
+    padding-left: 3px;
+    padding-right: 140px;
+    font-size: 28px;
+    line-height: 20px;
+}
+
+.menu {
+    font-size: 16px;
+    padding-left: 4.4px;
+    padding-right: 4.4px;
+}
+
+.navbar-default{
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+}
+.yo_boys{
+    border-right-color: #FFFFFF;
+    border-left-color: rgba(216, 102, 83, 0.77);
+}
+
+h2,
+.h2
+{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+body { overflow-x: hidden;}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
